@@ -1,0 +1,3 @@
+Model,Accuracy,Accuracy_Std,F1_Macro,F1_Std,Features
+Text-Only (TF-IDF),0.62,0.0176,0.6214,0.0175,TF-IDF (300 features)
+Text + Metadata,0.6192,0.009,0.6206,0.0091,TF-IDF + Metadata (300 + 9 features)

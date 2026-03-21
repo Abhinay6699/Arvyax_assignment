@@ -1,0 +1,121 @@
+id,predicted_state,predicted_intensity,confidence,uncertain_flag,what_to_do,when_to_do,supportive_message
+10001,focused,1,0.7773,0,rest,tonight,You seem focused and clear-headed. This is a great time for rest. Wind down tonight with this.
+10002,mixed,5,0.502,1,journaling,now,Your feelings seem a bit tangled right now. That's okay. Try journaling to help sort things out. Try to do this right now.
+10003,focused,5,0.4897,1,box_breathing,now,"We're not entirely sure how you're feeling, but — You seem focused and clear-headed. This is a great time for box breathing. Try to do this right now."
+10004,focused,1,0.8109,0,rest,within_15_min,You seem focused and clear-headed. This is a great time for rest. Try to find 15 minutes for this soon.
+10005,neutral,3,0.5852,1,box_breathing,within_15_min,You seem balanced right now. Consider box breathing to make the most of your day. Try to find 15 minutes for this soon.
+10006,mixed,1,0.5901,1,yoga,tomorrow_morning,Your feelings seem a bit tangled right now. That's okay. Try yoga to help sort things out. Start tomorrow morning with this.
+10007,neutral,2,0.5214,1,journaling,tonight,You seem balanced right now. Consider journaling to make the most of your day. Wind down tonight with this.
+10008,calm,3,0.5946,1,yoga,within_15_min,You're in a good headspace right now. yoga could help you channel this energy well. Try to find 15 minutes for this soon.
+10009,restless,4,0.7509,0,grounding,now,You seem a bit unsettled. A short session of grounding can help bring some calm. Try to do this right now.
+10010,overwhelmed,3,0.5683,1,grounding,within_15_min,It sounds like things feel heavy right now. Let's take it one step at a time — grounding might help you reset. Try to find 15 minutes for this soon.
+10011,calm,4,0.5556,1,yoga,now,You're in a good headspace right now. yoga could help you channel this energy well. Try to do this right now.
+10012,calm,4,0.5564,1,yoga,now,You're in a good headspace right now. yoga could help you channel this energy well. Try to do this right now.
+10013,neutral,3,0.4867,1,grounding,within_15_min,"We're not entirely sure how you're feeling, but — You seem balanced right now. Consider grounding to make the most of your day. Try to find 15 minutes for this soon."
+10014,focused,3,0.8211,0,rest,within_15_min,You seem focused and clear-headed. This is a great time for rest. Try to find 15 minutes for this soon.
+10015,focused,4,0.6996,0,deep_work,now,You seem focused and clear-headed. This is a great time for deep work. Try to do this right now.
+10016,neutral,1,0.7642,0,journaling,tonight,You seem balanced right now. Consider journaling to make the most of your day. Wind down tonight with this.
+10017,mixed,4,0.7951,0,journaling,now,Your feelings seem a bit tangled right now. That's okay. Try journaling to help sort things out. Try to do this right now.
+10018,mixed,3,0.7401,1,box_breathing,within_15_min,Your feelings seem a bit tangled right now. That's okay. Try box breathing to help sort things out. Try to find 15 minutes for this soon.
+10019,focused,3,0.5309,1,deep_work,within_15_min,You seem focused and clear-headed. This is a great time for deep work. Try to find 15 minutes for this soon.
+10020,calm,2,0.5535,1,rest,tonight,You're in a good headspace right now. rest could help you channel this energy well. Wind down tonight with this.
+10021,overwhelmed,1,0.828,0,box_breathing,tonight,It sounds like things feel heavy right now. Let's take it one step at a time — box breathing might help you reset. Wind down tonight with this.
+10022,calm,2,0.7712,1,yoga,later_today,You're in a good headspace right now. yoga could help you channel this energy well. Set aside some time for this later today.
+10023,neutral,4,0.4752,1,journaling,now,"We're not entirely sure how you're feeling, but — You seem balanced right now. Consider journaling to make the most of your day. Try to do this right now."
+10024,calm,2,0.5631,1,rest,tonight,You're in a good headspace right now. rest could help you channel this energy well. Wind down tonight with this.
+10025,calm,5,0.6309,1,yoga,now,You're in a good headspace right now. yoga could help you channel this energy well. Try to do this right now.
+10026,overwhelmed,2,0.711,0,sound_therapy,within_15_min,It sounds like things feel heavy right now. Let's take it one step at a time — sound therapy might help you reset. Try to find 15 minutes for this soon.
+10027,mixed,5,0.4343,1,journaling,now,"We're not entirely sure how you're feeling, but — Your feelings seem a bit tangled right now. That's okay. Try journaling to help sort things out. Try to do this right now."
+10028,overwhelmed,3,0.5222,1,grounding,within_15_min,It sounds like things feel heavy right now. Let's take it one step at a time — grounding might help you reset. Try to find 15 minutes for this soon.
+10029,overwhelmed,5,0.798,0,box_breathing,now,It sounds like things feel heavy right now. Let's take it one step at a time — box breathing might help you reset. Try to do this right now.
+10030,calm,3,0.6379,1,rest,within_15_min,You're in a good headspace right now. rest could help you channel this energy well. Try to find 15 minutes for this soon.
+10031,focused,4,0.784,0,rest,now,You seem focused and clear-headed. This is a great time for rest. Try to do this right now.
+10032,calm,3,0.5305,1,grounding,within_15_min,You're in a good headspace right now. grounding could help you channel this energy well. Try to find 15 minutes for this soon.
+10033,overwhelmed,1,0.6946,1,sound_therapy,within_15_min,It sounds like things feel heavy right now. Let's take it one step at a time — sound therapy might help you reset. Try to find 15 minutes for this soon.
+10034,neutral,4,0.7675,0,journaling,now,You seem balanced right now. Consider journaling to make the most of your day. Try to do this right now.
+10035,focused,4,0.8304,0,deep_work,now,You seem focused and clear-headed. This is a great time for deep work. Try to do this right now.
+10036,restless,3,0.7898,0,box_breathing,within_15_min,You seem a bit unsettled. A short session of box breathing can help bring some calm. Try to find 15 minutes for this soon.
+10037,overwhelmed,1,0.5644,1,box_breathing,within_15_min,It sounds like things feel heavy right now. Let's take it one step at a time — box breathing might help you reset. Try to find 15 minutes for this soon.
+10038,focused,3,0.7897,0,movement,within_15_min,You seem focused and clear-headed. This is a great time for movement. Try to find 15 minutes for this soon.
+10039,mixed,1,0.7845,0,box_breathing,tonight,Your feelings seem a bit tangled right now. That's okay. Try box breathing to help sort things out. Wind down tonight with this.
+10040,mixed,5,0.8821,0,journaling,now,Your feelings seem a bit tangled right now. That's okay. Try journaling to help sort things out. Try to do this right now.
+10041,calm,1,0.5292,1,yoga,later_today,You're in a good headspace right now. yoga could help you channel this energy well. Set aside some time for this later today.
+10042,neutral,5,0.4385,1,rest,now,"We're not entirely sure how you're feeling, but — You seem balanced right now. Consider rest to make the most of your day. Try to do this right now."
+10043,calm,1,0.4761,1,rest,tonight,"We're not entirely sure how you're feeling, but — You're in a good headspace right now. rest could help you channel this energy well. Wind down tonight with this."
+10044,calm,1,0.4979,1,yoga,tonight,"We're not entirely sure how you're feeling, but — You're in a good headspace right now. yoga could help you channel this energy well. Wind down tonight with this."
+10045,restless,4,0.5961,1,grounding,now,You seem a bit unsettled. A short session of grounding can help bring some calm. Try to do this right now.
+10046,focused,2,0.8306,0,movement,tonight,You seem focused and clear-headed. This is a great time for movement. Wind down tonight with this.
+10047,focused,5,0.7957,0,deep_work,now,You seem focused and clear-headed. This is a great time for deep work. Try to do this right now.
+10048,calm,3,0.4637,1,yoga,within_15_min,"We're not entirely sure how you're feeling, but — You're in a good headspace right now. yoga could help you channel this energy well. Try to find 15 minutes for this soon."
+10049,restless,4,0.7486,0,grounding,now,You seem a bit unsettled. A short session of grounding can help bring some calm. Try to do this right now.
+10050,restless,4,0.7516,0,box_breathing,now,You seem a bit unsettled. A short session of box breathing can help bring some calm. Try to do this right now.
+10051,focused,2,0.5626,1,deep_work,tomorrow_morning,You seem focused and clear-headed. This is a great time for deep work. Start tomorrow morning with this.
+10052,restless,5,0.829,0,grounding,now,You seem a bit unsettled. A short session of grounding can help bring some calm. Try to do this right now.
+10053,calm,5,0.8011,0,yoga,now,You're in a good headspace right now. yoga could help you channel this energy well. Try to do this right now.
+10054,overwhelmed,5,0.7943,0,box_breathing,now,It sounds like things feel heavy right now. Let's take it one step at a time — box breathing might help you reset. Try to do this right now.
+10055,mixed,5,0.7303,0,grounding,now,Your feelings seem a bit tangled right now. That's okay. Try grounding to help sort things out. Try to do this right now.
+10056,focused,4,0.8052,0,movement,now,You seem focused and clear-headed. This is a great time for movement. Try to do this right now.
+10057,overwhelmed,3,0.8257,0,grounding,within_15_min,It sounds like things feel heavy right now. Let's take it one step at a time — grounding might help you reset. Try to find 15 minutes for this soon.
+10058,focused,4,0.6924,0,deep_work,now,You seem focused and clear-headed. This is a great time for deep work. Try to do this right now.
+10059,mixed,5,0.5916,1,grounding,now,Your feelings seem a bit tangled right now. That's okay. Try grounding to help sort things out. Try to do this right now.
+10060,neutral,1,0.5195,1,journaling,tonight,You seem balanced right now. Consider journaling to make the most of your day. Wind down tonight with this.
+10061,neutral,1,0.7931,0,grounding,tonight,You seem balanced right now. Consider grounding to make the most of your day. Wind down tonight with this.
+10062,restless,5,0.5619,1,grounding,now,You seem a bit unsettled. A short session of grounding can help bring some calm. Try to do this right now.
+10063,mixed,5,0.4816,1,journaling,now,"We're not entirely sure how you're feeling, but — Your feelings seem a bit tangled right now. That's okay. Try journaling to help sort things out. Try to do this right now."
+10064,focused,4,0.6225,1,rest,now,You seem focused and clear-headed. This is a great time for rest. Try to do this right now.
+10065,neutral,5,0.7432,0,light_planning,now,You seem balanced right now. Consider light planning to make the most of your day. Try to do this right now.
+10066,restless,1,0.7815,0,rest,tonight,You seem a bit unsettled. A short session of rest can help bring some calm. Wind down tonight with this.
+10067,restless,5,0.7684,0,grounding,now,You seem a bit unsettled. A short session of grounding can help bring some calm. Try to do this right now.
+10068,overwhelmed,5,0.8369,0,box_breathing,now,It sounds like things feel heavy right now. Let's take it one step at a time — box breathing might help you reset. Try to do this right now.
+10069,neutral,3,0.8424,0,journaling,within_15_min,You seem balanced right now. Consider journaling to make the most of your day. Try to find 15 minutes for this soon.
+10070,neutral,1,0.4942,1,journaling,tonight,"We're not entirely sure how you're feeling, but — You seem balanced right now. Consider journaling to make the most of your day. Wind down tonight with this."
+10071,mixed,1,0.6739,1,yoga,within_15_min,Your feelings seem a bit tangled right now. That's okay. Try yoga to help sort things out. Try to find 15 minutes for this soon.
+10072,calm,4,0.4767,1,yoga,now,"We're not entirely sure how you're feeling, but — You're in a good headspace right now. yoga could help you channel this energy well. Try to do this right now."
+10073,restless,4,0.7261,0,box_breathing,now,You seem a bit unsettled. A short session of box breathing can help bring some calm. Try to do this right now.
+10074,mixed,5,0.7879,0,box_breathing,now,Your feelings seem a bit tangled right now. That's okay. Try box breathing to help sort things out. Try to do this right now.
+10075,calm,3,0.4974,1,yoga,within_15_min,"We're not entirely sure how you're feeling, but — You're in a good headspace right now. yoga could help you channel this energy well. Try to find 15 minutes for this soon."
+10076,mixed,3,0.6507,1,journaling,within_15_min,Your feelings seem a bit tangled right now. That's okay. Try journaling to help sort things out. Try to find 15 minutes for this soon.
+10077,neutral,5,0.7309,0,journaling,now,You seem balanced right now. Consider journaling to make the most of your day. Try to do this right now.
+10078,restless,3,0.6924,0,grounding,within_15_min,You seem a bit unsettled. A short session of grounding can help bring some calm. Try to find 15 minutes for this soon.
+10079,restless,3,0.5794,1,grounding,within_15_min,You seem a bit unsettled. A short session of grounding can help bring some calm. Try to find 15 minutes for this soon.
+10080,focused,4,0.6272,1,movement,now,You seem focused and clear-headed. This is a great time for movement. Try to do this right now.
+10081,restless,2,0.7999,0,box_breathing,tonight,You seem a bit unsettled. A short session of box breathing can help bring some calm. Wind down tonight with this.
+10082,overwhelmed,2,0.5137,1,sound_therapy,tomorrow_morning,It sounds like things feel heavy right now. Let's take it one step at a time — sound therapy might help you reset. Start tomorrow morning with this.
+10083,neutral,2,0.5276,1,grounding,later_today,You seem balanced right now. Consider grounding to make the most of your day. Set aside some time for this later today.
+10084,overwhelmed,3,0.8113,0,grounding,within_15_min,It sounds like things feel heavy right now. Let's take it one step at a time — grounding might help you reset. Try to find 15 minutes for this soon.
+10085,calm,1,0.4619,1,rest,tonight,"We're not entirely sure how you're feeling, but — You're in a good headspace right now. rest could help you channel this energy well. Wind down tonight with this."
+10086,restless,4,0.59,1,grounding,now,You seem a bit unsettled. A short session of grounding can help bring some calm. Try to do this right now.
+10087,mixed,2,0.7412,0,yoga,tonight,Your feelings seem a bit tangled right now. That's okay. Try yoga to help sort things out. Wind down tonight with this.
+10088,neutral,5,0.6399,1,light_planning,now,You seem balanced right now. Consider light planning to make the most of your day. Try to do this right now.
+10089,calm,3,0.8512,0,rest,within_15_min,You're in a good headspace right now. rest could help you channel this energy well. Try to find 15 minutes for this soon.
+10090,mixed,5,0.7654,0,journaling,now,Your feelings seem a bit tangled right now. That's okay. Try journaling to help sort things out. Try to do this right now.
+10091,neutral,2,0.7846,0,box_breathing,tonight,You seem balanced right now. Consider box breathing to make the most of your day. Wind down tonight with this.
+10092,overwhelmed,3,0.5502,1,grounding,within_15_min,It sounds like things feel heavy right now. Let's take it one step at a time — grounding might help you reset. Try to find 15 minutes for this soon.
+10093,mixed,4,0.6569,1,journaling,now,Your feelings seem a bit tangled right now. That's okay. Try journaling to help sort things out. Try to do this right now.
+10094,focused,5,0.5782,1,box_breathing,now,You seem focused and clear-headed. This is a great time for box breathing. Try to do this right now.
+10095,neutral,4,0.5182,1,journaling,now,You seem balanced right now. Consider journaling to make the most of your day. Try to do this right now.
+10096,neutral,4,0.5784,1,rest,now,You seem balanced right now. Consider rest to make the most of your day. Try to do this right now.
+10097,restless,4,0.6212,1,grounding,now,You seem a bit unsettled. A short session of grounding can help bring some calm. Try to do this right now.
+10098,overwhelmed,5,0.6434,1,box_breathing,now,It sounds like things feel heavy right now. Let's take it one step at a time — box breathing might help you reset. Try to do this right now.
+10099,mixed,3,0.764,0,journaling,within_15_min,Your feelings seem a bit tangled right now. That's okay. Try journaling to help sort things out. Try to find 15 minutes for this soon.
+10100,mixed,5,0.5832,1,box_breathing,now,Your feelings seem a bit tangled right now. That's okay. Try box breathing to help sort things out. Try to do this right now.
+10101,calm,5,0.4661,1,rest,now,"We're not entirely sure how you're feeling, but — You're in a good headspace right now. rest could help you channel this energy well. Try to do this right now."
+10102,overwhelmed,2,0.835,0,sound_therapy,tonight,It sounds like things feel heavy right now. Let's take it one step at a time — sound therapy might help you reset. Wind down tonight with this.
+10103,calm,5,0.785,0,box_breathing,now,You're in a good headspace right now. box breathing could help you channel this energy well. Try to do this right now.
+10104,mixed,1,0.8235,0,box_breathing,tonight,Your feelings seem a bit tangled right now. That's okay. Try box breathing to help sort things out. Wind down tonight with this.
+10105,calm,5,0.5111,1,yoga,now,You're in a good headspace right now. yoga could help you channel this energy well. Try to do this right now.
+10106,neutral,2,0.7105,0,grounding,later_today,You seem balanced right now. Consider grounding to make the most of your day. Set aside some time for this later today.
+10107,restless,4,0.6519,1,grounding,now,You seem a bit unsettled. A short session of grounding can help bring some calm. Try to do this right now.
+10108,mixed,4,0.5855,1,journaling,now,Your feelings seem a bit tangled right now. That's okay. Try journaling to help sort things out. Try to do this right now.
+10109,neutral,5,0.6359,1,box_breathing,now,You seem balanced right now. Consider box breathing to make the most of your day. Try to do this right now.
+10110,calm,5,0.5911,1,box_breathing,now,You're in a good headspace right now. box breathing could help you channel this energy well. Try to do this right now.
+10111,mixed,5,0.7594,0,journaling,now,Your feelings seem a bit tangled right now. That's okay. Try journaling to help sort things out. Try to do this right now.
+10112,mixed,1,0.7656,0,yoga,tomorrow_morning,Your feelings seem a bit tangled right now. That's okay. Try yoga to help sort things out. Start tomorrow morning with this.
+10113,calm,3,0.8064,0,yoga,within_15_min,You're in a good headspace right now. yoga could help you channel this energy well. Try to find 15 minutes for this soon.
+10114,neutral,2,0.6907,1,light_planning,later_today,You seem balanced right now. Consider light planning to make the most of your day. Set aside some time for this later today.
+10115,calm,3,0.8888,0,box_breathing,within_15_min,You're in a good headspace right now. box breathing could help you channel this energy well. Try to find 15 minutes for this soon.
+10116,overwhelmed,3,0.6942,1,grounding,within_15_min,It sounds like things feel heavy right now. Let's take it one step at a time — grounding might help you reset. Try to find 15 minutes for this soon.
+10117,neutral,5,0.7737,0,rest,now,You seem balanced right now. Consider rest to make the most of your day. Try to do this right now.
+10118,focused,5,0.5866,1,deep_work,now,You seem focused and clear-headed. This is a great time for deep work. Try to do this right now.
+10119,mixed,3,0.6396,1,grounding,within_15_min,Your feelings seem a bit tangled right now. That's okay. Try grounding to help sort things out. Try to find 15 minutes for this soon.
+10120,mixed,4,0.6539,0,grounding,now,Your feelings seem a bit tangled right now. That's okay. Try grounding to help sort things out. Try to do this right now.
